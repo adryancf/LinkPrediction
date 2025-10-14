@@ -1,0 +1,9 @@
+{
+  "model_type": "GNN",
+  "architecture": "SAGE_MLP",
+  "parameters": 83713,
+  "epochs_trained": 100,
+  "final_auc": 0.9253401860783942,
+  "final_ap": 0.6533623800803655,
+  "final_f1": 0.9280140049554925
+}
